@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Cristian-Stefan Avram!
 	<a href="https://github.com/avramstefan" target="_self">
-		<img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="30">
+		<img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
