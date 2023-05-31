@@ -1,7 +1,7 @@
 <h1 align="center">
-Hi, I'm Bouaskaoun Mohammed!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Hi, I'm Cristian-Stefan Avram!
+	<a href="https://github.com/avramstefan" target="_self">
+		<img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
