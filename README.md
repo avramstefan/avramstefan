@@ -82,12 +82,12 @@ Hi, I'm Cristian-Stefan Avram!
 ## <a href="https://github.com/avramstefan"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ avramstefan's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/avramstefan">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<img width="46.7%" src="https://github-readme-stats.vercel.app/api?username=avramstefan&show_icons=true" alt="avramstefan">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=avramstefan" alt="avramstefan">
 	</a>
 	<br/>
 </p>
@@ -107,7 +107,7 @@ Hi, I'm Cristian-Stefan Avram!
 
 <p align="center">
 	<a href="https://github.com/avramstefan">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avramstefan&langs_count=8&layout=compact" alt="avramstefan">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avramstefan&show_icons=true" alt="avramstefan">
 	</a>
 	<br/>
 <br/>
@@ -119,4 +119,4 @@ Hi, I'm Cristian-Stefan Avram!
   <tr>
   <td width="50%" valign="top">
 
-Last Edited on: 31/05/2023
+Last Edited on: 01/06/2023
