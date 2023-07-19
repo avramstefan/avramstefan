@@ -24,7 +24,7 @@ Hi, I'm Cristian-Stefan Avram!
 🌟 Main languages: Python, C
 ⚡ Teaching Python to Computer Science students
 🚩 Had an internship in Data Science at IBM
-🌱 Currently working on a Startup idea
+🌱 Currently working on a Startup idea -> <a href="https://thesilvercare.com" target="_blank">website.</a>
 🤔 I’m open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1MUKcMqSBA-6dVFPzUXCHHuFnOi4kYV7W/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
