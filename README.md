@@ -50,6 +50,7 @@ Hi, I'm Cristian-Stefan Avram!
     <a href="https://github.com/avramstefan"><img alt="Django" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></a>
     <a href="https://github.com/avramstefan"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+	<a href="https://github.com/avramstefan"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -119,4 +120,4 @@ Hi, I'm Cristian-Stefan Avram!
   <tr>
   <td width="50%" valign="top">
 
-Last Edited on: 01/06/2023
+Last Edited on: 19/07/2023
