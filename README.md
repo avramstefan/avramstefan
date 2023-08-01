@@ -87,7 +87,6 @@ Hi, I'm Cristian-Stefan Avram!
 <br/>
 <p align="center">
 	<a href="https://github.com/avramstefan">
-	<img width="46.7%" src="https://github-readme-stats.vercel.app/api?username=avramstefan&show_icons=true&include_all_commits=true" alt="avramstefan">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=avramstefan" alt="avramstefan">
 	</a>
 	<br/>
