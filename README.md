@@ -102,7 +102,7 @@ Hi, I'm Cristian-Stefan Avram!
 </p>
 <br/>
 -->
-<summary><b>⚡ Top Languages</b></summary>
+<!-- <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
 <p align="center">
@@ -113,7 +113,7 @@ Hi, I'm Cristian-Stefan Avram!
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br/>
+<br/> -->
 
 <table style="border: none">
   <tr>
