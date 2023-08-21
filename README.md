@@ -21,7 +21,6 @@ Hi, I'm Cristian-Stefan Avram!
 <pre>
 📚 I am a student at Faculty of Automatic Control and Computer Scienece, UPB, Bucharest
 📝 I have a strong interest in Backend development and Data Science
-🌟 Main languages: Python, C
 ⚡ Teaching Python to Computer Science students
 🚩 Had an internship in Data Science at IBM
 🌱 Co-Founder at <a href="https://thesilvercare.com" target="_blank">SilverCare</a>
