@@ -48,26 +48,33 @@ Hi, I'm Cristian-Stefan Avram!
 
 <p>
     <a href="https://github.com/avramstefan"><img alt="Django" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></a>
+    <a href="https://github.com/avramstefan"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
 	<a href="https://github.com/avramstefan"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+	<a href="https://github.com/avramstefan"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
+    <a href="https://github.com/avramstefan"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/avramstefan"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
+	<a href="https://github.com/avramstefan"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+	<a href="https://github.com/avramstefan"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Stack overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="https://github.com/avramstefan"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+	<a href="https://github.com/avramstefan"><img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 </p>
 </br>
 
@@ -119,4 +126,4 @@ Hi, I'm Cristian-Stefan Avram!
   <tr>
   <td width="50%" valign="top">
 
-Last Edited on: 19/07/2023
+Last Edited on: 21/08/2023
