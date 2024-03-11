@@ -23,7 +23,7 @@ Hi, I'm Cristian-Stefan Avram!
 📝 I have a strong interest in Backend development and Data Science
 ⚡ Teaching Python to Computer Science students
 🚩 Had an internship in Data Science at IBM
-🌱 Co-Founder at <a href="https://thesilvercare.com" target="_blank">SilverCare</a>
+🌱 Co-Founder at <a href="https://eldie.ro" target="_blank">Eldie</a>
 ⚡ Developed <a href="https://arena.acadnet.eu" target="_blank">AcadNet</a> platform for more than 300 participants in programming contests.
 <!--🤔 I’m open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1MUKcMqSBA-6dVFPzUXCHHuFnOi4kYV7W/view?usp=drive_link" target="_blank">MY RESUME</a> (may 2023).-->
 </pre>
