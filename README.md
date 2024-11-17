@@ -12,7 +12,7 @@ Hi, I'm Cristian-Stefan Avram!
 <br/>
 <p align="center">
 	<a href="https://github.com/avramstefan">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Co-Founder+at+SilverCare;Computer+Engineering+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software Engineer at Keysight;Computer+Engineering+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -22,8 +22,9 @@ Hi, I'm Cristian-Stefan Avram!
 📚 I am a student at Faculty of Automatic Control and Computer Scienece, UPB, Bucharest
 📝 I have a strong interest in Backend development and Data Science
 ⚡ Teaching Python to Computer Science students
-🚩 Had an internship in Data Science at IBM
-🌱 Co-Founder at <a href="https://eldie.ro" target="_blank">Eldie</a>
+🚩 Creator of a<a href="https://arena.acadnet.eu" target="_blank">arena.acadnet.eu</a>
+🚩 Software Engineer at Keysight
+🌱 Ex Co-Founder at <a href="https://eldie.ro" target="_blank">Eldie</a>
 ⚡ Developed <a href="https://arena.acadnet.eu" target="_blank">AcadNet</a> platform for more than 500 participants in programming contests.
 <!--🤔 I’m open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1MUKcMqSBA-6dVFPzUXCHHuFnOi4kYV7W/view?usp=drive_link" target="_blank">MY RESUME</a> (may 2023).-->
 </pre>
