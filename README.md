@@ -20,12 +20,8 @@ Hi, I'm Cristian-Stefan Avram!
 
 <pre>
 📚 I am a student at Faculty of Automatic Control and Computer Scienece, UPB, Bucharest
-📝 I have a strong interest in Backend development and Data Science
-⚡ Teaching Python to Computer Science students
-🚩 Creator of <a href="https://arena.acadnet.eu" target="_blank">arena.acadnet.eu</a>
+🚩 Creator of <a href="https://arena.acadnet.eu" target="_blank">arena.acadnet.eu</a> for more than 800 participants in programming contests.
 🚩 Software Engineer at Keysight
-🌱 Ex Co-Founder at <a href="https://eldie.ro" target="_blank">Eldie</a>
-⚡ Developed <a href="https://arena.acadnet.eu" target="_blank">AcadNet</a> platform for more than 500 participants in programming contests.
 <!--🤔 I’m open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1MUKcMqSBA-6dVFPzUXCHHuFnOi4kYV7W/view?usp=drive_link" target="_blank">MY RESUME</a> (may 2023).-->
 </pre>
 <hr>
