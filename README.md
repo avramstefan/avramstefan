@@ -18,12 +18,6 @@ Hi, I'm Cristian-Stefan Avram!
 
 <hr>
 
-<pre>
-📚 I am a student at Faculty of Automatic Control and Computer Scienece, UPB, Bucharest
-🚩 Software Engineer at Stripe
-<!--🤔 I’m open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1MUKcMqSBA-6dVFPzUXCHHuFnOi4kYV7W/view?usp=drive_link" target="_blank">MY RESUME</a> (may 2023).-->
-</pre>
-<hr>
 
 ## 🤝 Connect with me
 <p align="center">
